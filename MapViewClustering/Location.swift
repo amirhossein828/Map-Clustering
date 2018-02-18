@@ -10,7 +10,7 @@ import Foundation
 import MapKit
 
 /**
- * Model class for a Client
+ * Model class for a Location
  *
  */
 class Location : NSObject {

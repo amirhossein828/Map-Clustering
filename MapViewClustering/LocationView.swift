@@ -9,7 +9,10 @@
 import UIKit
 import MapKit
 
-
+/**
+ * View of annotations
+ *
+ */
 class LocationView: MKMarkerAnnotationView {
     
     override var annotation: MKAnnotation? {
@@ -19,5 +22,4 @@ class LocationView: MKMarkerAnnotationView {
             }
         }
     }
-    
 }
